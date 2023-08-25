@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="9" failures="0" errors="0" time="1.939">
+  <testsuite name="Transactional, check constructor rebuilds" errors="0" failures="0" skipped="0" timestamp="2023-08-25T05:10:07" time="1.905" tests="9">
+    <testcase classname="Transactional, check constructor rebuilds Should be able to call methods of property injectioned service through withTransaction" name="Transactional, check constructor rebuilds Should be able to call methods of property injectioned service through withTransaction" time="0.06">
+    </testcase>
+    <testcase classname="Transactional, check constructor rebuilds should be able to call methods of cutom token injectioned service through withTransaction" name="Transactional, check constructor rebuilds should be able to call methods of cutom token injectioned service through withTransaction" time="0.028">
+    </testcase>
+    <testcase classname="Transactional, check constructor rebuilds should be able to call methods of service which is injected by forwardRef through withTransaction" name="Transactional, check constructor rebuilds should be able to call methods of service which is injected by forwardRef through withTransaction" time="0.021">
+    </testcase>
+    <testcase classname="Transactional, check constructor rebuilds Optional injection Should instantiate service when it is provided" name="Transactional, check constructor rebuilds Optional injection Should instantiate service when it is provided" time="0.021">
+    </testcase>
+    <testcase classname="Transactional, check constructor rebuilds Optional injection Should return undefined when it is not provided" name="Transactional, check constructor rebuilds Optional injection Should return undefined when it is not provided" time="0.019">
+    </testcase>
+    <testcase classname="Transactional, check constructor rebuilds Should be able to call methods of object injectioned through withTransaction" name="Transactional, check constructor rebuilds Should be able to call methods of object injectioned through withTransaction" time="0.017">
+    </testcase>
+    <testcase classname="Transactional, check constructor rebuilds should be able to call methods of factory(non class) injectioned through withTransaction" name="Transactional, check constructor rebuilds should be able to call methods of factory(non class) injectioned through withTransaction" time="0.016">
+    </testcase>
+    <testcase classname="Transactional, check rollbacks should commit when no error is thrown" name="Transactional, check rollbacks should commit when no error is thrown" time="0.018">
+    </testcase>
+    <testcase classname="Transactional, check rollbacks Should rollback when error is thrown" name="Transactional, check rollbacks Should rollback when error is thrown" time="0.008">
+    </testcase>
+  </testsuite>
+</testsuites>
